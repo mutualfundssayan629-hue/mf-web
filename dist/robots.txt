@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranjit-roy-mutual-fu-rraf.bolt.host/sitemap.xml
